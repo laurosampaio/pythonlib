@@ -173,3 +173,5 @@ cython_debug/
 #custom
 
 working/
+val_model_img/
+filtered-coco-dataset/
